@@ -1,0 +1,2 @@
+# Svoj-krug
+NKO organisation
